@@ -1,0 +1,5 @@
+,CET1,Reported RWA,RWA at units' own weights,Recalculated RWA (FRB),Reported ratio,Recalculated ratio,Unexplained RWA gap,Meets 10.5%?,CET1 shortfall
+A,10.0,70.25,70.25,74.0,0.1423,0.1351,0.0,True,0.0
+B,15.0,59.5,59.5,67.0,0.2521,0.2239,0.0,True,0.0
+C,20.0,244.0,244.0,256.75,0.082,0.0779,0.0,False,6.9587
+D,20.0,200.23,447.5,462.5,0.0999,0.0432,-247.27,False,28.5625
